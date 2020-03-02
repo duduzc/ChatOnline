@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>703014223031-6pk0rjn2qodctim8d5mai933aji0efi7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.703014223031-6pk0rjn2qodctim8d5mai933aji0efi7</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>703014223031-89804artoslvupa3uvei844uuegfjun6.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAyQSD2vjsm4SOEuEgv-f4nu9f6j3xHI_U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>703014223031</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>br.com.cavalcante.chatonline</string>
+	<key>PROJECT_ID</key>
+	<string>chat-online-6126b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chat-online-6126b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:703014223031:ios:1bad90b201bd4b78a9a132</string>
+	<key>DATABASE_URL</key>
+	<string>https://chat-online-6126b.firebaseio.com</string>
+</dict>
+</plist>
