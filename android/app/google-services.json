@@ -15,6 +15,22 @@
       },
       "oauth_client": [
         {
+          "client_id": "703014223031-89804artoslvupa3uvei844uuegfjun6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.cavalcante.chatonline",
+            "certificate_hash": "293bcdea7a55a32fc7bd0a80bd47b508853290da"
+          }
+        },
+        {
+          "client_id": "703014223031-tkl205u94bbjgjf4c3pkcpeg3j356a7i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.cavalcante.chatonline",
+            "certificate_hash": "9aca7b47c680b8604c1e87d3b339624c0321564b"
+          }
+        },
+        {
           "client_id": "703014223031-ur83lsgt13fqkgfbkfig4pfqfl7jb4rj.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
@@ -38,6 +54,13 @@
             {
               "client_id": "703014223031-8qn5et1koh5rnen3b3supt73nslqa36s.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "703014223031-6pk0rjn2qodctim8d5mai933aji0efi7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.cavalcante.chatonline"
+              }
             }
           ]
         }
